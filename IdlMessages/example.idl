@@ -1,0 +1,7 @@
+// example idl file
+
+struct example{
+    double x;
+    double y;
+    double z;
+};
